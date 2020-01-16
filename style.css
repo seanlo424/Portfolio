@@ -1,0 +1,159 @@
+body {
+ 	font-family: 'Russo One', sans-serif;
+ 	margin: 0;
+}
+
+h1 {
+	color: #DE1FCC;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2 {
+	color: #1CEBBD;
+	font-size: 35px;
+	margin-top: 0;
+}
+
+h3 {
+   text-align: center;
+   font-size: 28px;
+   font-weight: normal;
+   margin-top: 100px;
+}
+
+h4 {
+   text-align: center;	
+   font-size: 24px;
+}
+
+p {
+  font-size: 24px;
+} 
+
+li {
+	display: inline-block;
+	font-size: 12px;
+	width: 100px;
+	font-width: bold;
+	margin-top: 30px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-align: center;
+	margin-left: 30px;
+}
+
+.hire-me {
+	border-style: solid;
+	border-color: white;
+}
+
+.nav-link {
+	color: white;
+	text-decoration: none;
+}
+
+
+.contact-link {
+	color: white;
+	font-weight: bold;
+	font-size: 13px;
+	text-align: center;
+}
+
+.contact-info {
+	color: white;
+	font-size: 13px;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.contact-headline {
+	color: white;
+}
+
+.contact-me {
+	height: 350px;
+	background-color: #202020;
+	padding-top: 30px;
+}
+
+.icon {
+	margin: 30px;
+}
+
+.icons {
+	text-align: center;
+}
+
+.skills-and-tools {
+	max-width: 400px;
+	margin: 40px auto;
+}
+
+.full-width {
+  width: 100%;
+  text-align: center;	
+}
+
+.clear {
+   clear: both;
+}
+
+.box {
+  float: left;
+  width: 42.5%;
+  margin-left: 5%;
+  margin-top: 80px;
+}
+
+.yellow {
+	border-top: 5px double #0589F8;
+	height: 8px;
+	background: url(http://ibrahimjabbari.com/images/hr-12.png) repeat-x 0 0;
+	background-color: #0589F8;
+  border: 0;
+  width: 250px;
+}
+
+.about-container {
+	 background: url('bg2.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 900px;
+}
+
+
+.bio {
+	color: white;
+	font-size: 18px;
+}	
+
+
+
+.me {
+	height: 200px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+
+
+
+.about {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.grey {
+	height: 3px;
+	background-color: #FCF41C;
+	border: none;
+	width: 50px;
+}
